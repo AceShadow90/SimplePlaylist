@@ -1,132 +1,67 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f015b6b70b59fac4849e79a6e0893b59-thumbnail.jpg" group-title="🏀 NBA Live (Nov 24,Monday)",@2AM Miami Heat vs. Philadelphia 76ers [NBCSP]
-https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/f1749b0349c9586a261475959a63f9eb-thumbnail.jpg" group-title="🏀 NBA Live Stream(Nov 25,TUE)",@8AM Detroit Pistons vs. Indiana Pacers[FDSNIN]
+https://gg.poocloud.in/nba_indianapacers/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/88bc06316d5a64126d060cbf84a18f44-thumbnail.jpg" group-title="🏀 NBA Live (Nov 24,Monday)",@7AM Charlotte Hornets vs. Atlanta Hawks [FDSNSE-ATL]
-https://gg.poocloud.in/nba_atlantahawks/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/a312b6f4484d59af8b9ebfd27ff2b63e-thumbnail.jpg" group-title="🏀 NBA Live Stream(Nov 25,TUE)",@8AM Cleveland Cavaliers vs. Toronto Raptors[Peacock]
+https://gg.poocloud.in/nba_torontoraptors/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0fdcd1e0836994c126fc27d5fcdc4fee-thumbnail.jpg" group-title="🏀 NBA Live (Nov 24,Monday)",@7AM Orlando Magic vs. Boston Celtics [NBCSB]
-https://gg.poocloud.in/nba_bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/03493d567f3299883b227cbdcec86058-thumbnail.jpg" group-title="🏀 NBA Live Stream(Nov 25,TUE)", @08:30AM New York Knicks vs. Brooklyn Nets[YES]
+https://gg.poocloud.in/nba_brooklynnets/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8b03de63720e21893428ea48aeba0e92-thumbnail.jpg" group-title="🏀 NBA Live (Nov 24,Monday)",@7AM LA Clippers vs. Cleveland Cavaliers [FDSNOH]
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/c964e7735c120047694ed88dcbd05a85-thumbnail.jpg" group-title="🏀 NBA Live Stream(Nov 25,TUE)",@8:30AM Dallas Mavericks vs. Miami Heat[FDSNSU]
+https://gg.poocloud.in/nba_miamiheat/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1e338a6cfb422a03d2c94240330c3dfc-thumbnail.jpg" group-title="🏀 NBA Live (Nov 24,Monday)",@7AM Brooklyn Nets vs. Toronto Raptors [YES]
-https://gg.poocloud.in/nba_torontoraptors/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/fcb2a7ca3b1e1cea6384634aa44bd29a-thumbnail.jpg" group-title="🏀 NBA Live Stream(Nov 25,TUE)",@9AM Denver Nuggets vs. Memphis Grizzlies[FDSNSE-MEM]
+https://gg.poocloud.in/nba_memphisgrizzlies/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b6eebf9f6513907285e7e6d5bb5878fc-thumbnail.jpg" group-title="🏀 NBA Live (Nov 24,Monday)",@8AM Portland Trail Blazers vs. Oklahoma City Thunder [FDSNOK]
-https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/02daaa5ef736177ae0d090e0d5cffdc2-thumbnail.jpg" group-title="🏀 NBA Live Stream(Nov 25,TUE)",@09AM Portland Trail Blazers vs. Milwaukee Bucks[FDSNWI]
+https://gg.poocloud.in/nba_milwaukeebucks/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/24f8327df6314950536180e444f63c10-thumbnail.jpg" group-title="🏀 NBA Live (Nov 24,Monday)",@9AM San Antonio Spurs vs. Phoenix Suns [KTVK]
-https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/064625428207f168b56705e13b5b7916-thumbnail.jpg" group-title="🏀 NBA Live Stream(Nov 25,TUE)",@9AM Chicago Bulls vs. New Orleans Pelicans[GCSEN]
+https://gg.poocloud.in/nba_neworleanspelicans/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/04490974b7d6e108d443031c1ef97346-thumbnail.jpg" group-title="🏀 NBA Live (Nov 24,Monday)",@9AM Los Angeles Lakers vs. Utah Jazz [KJZZ]
-https://gg.poocloud.in/nba_utahjazz/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/66cd935c93a321643f65195083bb7519-thumbnail.jpg" group-title="🏀 NBA Live Stream(Nov 25,TUE)",@10:30AM Houston Rockets vs. Phoenix Suns[Peacock]
+https://gg.poocloud.in/nba_phoenixsuns/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/d2d4ee575b327992f13dfbd2a67668b0-thumbnail.jpg" group-title="🏀 NBA Live Stream(Nov 25,TUE)",@11AM Utah Jazz vs. Golden State Warriors[NBCSBA]
+https://gg.poocloud.in/nba_goldenstatewarriors/tracks-v1a1/mono.ts.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="Darts.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" group-title="Darts",Players Championship Finals - Semis & Finals (Nov 24 @ 03:00 AM PHT) [DAZN]
-https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/7d3eea86a73727c3afbe478692694f5a-thumbnail.jpg" group-title="🏀 NBA Live Stream(Nov 25,TUE)",@11AM Minnesota Timberwolves vs. Sacramento Kings[NBCSCA]
+https://gg.poocloud.in/nba_sacramentokings/tracks-v1a1/mono.ts.m3u8
 
 
 
 
-
-#EXTINF:-1 tvg-id="Misc.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/8165fb5e2d33a599beb55489fcbcb4a3-thumbnail.jpg" group-title="PPVLand - Cricket",India vs. South Africa (Nov 24 @ 11:30 AM PHT) [TNT Sports]
+#EXTINF:-1 tvg-id="Misc.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/2ea94947186df7758180e20c0c56273f-thumbnail.jpg" group-title="🏏 Cricket Live Stream (Nov 25,TUE)",@11:30AM India vs. South Africa[TNT Sports]
 https://gg.poocloud.in/cricket/tracks-v1a1/mono.ts.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/ca4f7a879c0fbe33f3973bd5b4af9a1a-thumbnail.jpg" group-title="⚽ Global Footbal Livel Stream(Nov 25,TUE)",@01:30AM Torino vs. Como[Serie A]
+https://gg.poocloud.in/seriea_tor/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/1138b1da6318e664353a172c8895c917-thumbnail.jpg" group-title="Global Football Streams",Brest vs. FC Metz (Nov 24 @ 12:15 AM PHT) [Ligue 1]
-https://gg.poocloud.in/ligue1_brs/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/f9b4acb968b89e16a096e152f14397c0-thumbnail.jpg" group-title="⚽ Global Footbal Livel Stream(Nov 25,TUE)",@03:45AM Sassuolo vs. Pisa[Serie A]
+https://gg.poocloud.in/seriea_sas/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/7319a7dedd236d51e837d32150461a17-thumbnail.jpg" group-title="Global Football Streams",FC Nantes vs. FC Lorient (Nov 24 @ 12:15 AM PHT) [Ligue 1]
-https://gg.poocloud.in/ligue1_nan/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/a0375164be5a5ed1b5378901d95044d5-thumbnail.jpg" group-title="⚽ Global Footbal Livel Stream(Nov 25,TUE)",@04AM Manchester United vs. Everton[Premier League]
+https://gg.poocloud.in/epl_mun/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/5307621f61129a79498bf592d9eb63ae-thumbnail.jpg" group-title="Global Football Streams",Toulouse FC vs. Angers SCO (Nov 24 @ 12:15 AM PHT) [Ligue 1]
-https://gg.poocloud.in/ligue1_tou/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/9a3a76dc0b2c5e97fb6f1c24db4304c2-thumbnail.jpg" group-title="Global Football Streams",Arsenal vs. Tottenham Hotspur (Nov 24 @ 12:30 AM PHT) [Premier League]
-https://gg.poocloud.in/epl_ars/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/bea53058dd03a6c07c85382256403fc6-thumbnail.jpg" group-title="Global Football Streams",Elche CF vs. Real Madrid (Nov 24 @ 04:00 AM PHT) [LaLiga]
-https://gg.poocloud.in/ll_elc/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/acf3246be5da7a952d02307a50ef7a95-thumbnail.jpg" group-title="Global Football Streams",Getafe CF vs. Atlético de Madrid (Nov 24 @ 01:30 AM PHT) [LaLiga]
-https://gg.poocloud.in/ll_get/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/78d350880c15f732ab988d90a62dc937-thumbnail.jpg" group-title="Global Football Streams",Inter vs. Milan (Nov 24 @ 03:45 AM PHT) [Serie A]
-https://gg.poocloud.in/seriea_int/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/dfa3e433e9e1e6bc98cc0f7fe11aa8a4-thumbnail.jpg" group-title="Global Football Streams",Lazio vs. Lecce (Nov 24 @ 01:00 AM PHT) [Serie A]
-https://gg.poocloud.in/seriea_laz/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/b81ccb0f4ddb953f0c53eaee4706ea4b-thumbnail.jpg" group-title="Global Football Streams",LOSC vs. Paris FC (Nov 24 @ 03:45 AM PHT) [Ligue 1]
-https://gg.poocloud.in/ligue1_lil/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/027cca1748bfbb17b0060090818b4f4e-thumbnail.jpg" group-title="Global Football Streams",St. Pauli vs. Union Berlin (Nov 24 @ 12:30 AM PHT) [ESPN+]
-https://gg.poocloud.in/bundesliga_stp/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/b032f516364e5d704ebbe7cef6bc2d46-thumbnail.jpg" group-title="⚽ Global Footbal Livel Stream(Nov 25,TUE)",@04AM RCD Espanyol de Barcelona vs. Sevilla FC[LaLiga]
+https://gg.poocloud.in/ll_esp/tracks-v1a1/mono.ts.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/db3e2933fe675d16426c80325fa34ea0-thumbnail.jpg" group-title="NFL Action",Atlanta Falcons vs. New Orleans Saints (Nov 24 @ 05:25 AM PHT) [FOX]
-https://gg.poocloud.in/neworleanssaints/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/ca612289f5e9ff4c725ee0b35d2c1627-thumbnail.jpg" group-title="NFL Action",Cleveland Browns vs. Las Vegas Raiders (Nov 24 @ 05:05 AM PHT) [CBS]
-https://gg.poocloud.in/lasvegasraiders/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/ec085c53a94f3e73512f42b4ae5da14b-thumbnail.jpg" group-title="NFL Action",Indianapolis Colts vs. Kansas City Chiefs (Nov 24 @ 02:00 AM PHT) [CBS]
-https://gg.poocloud.in/kansascitychiefs/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/be2319257c167fee1cff360e551234ec-thumbnail.jpg" group-title="NFL Action",Jacksonville Jaguars vs. Arizona Cardinals (Nov 24 @ 05:05 AM PHT) [CBS]
-https://gg.poocloud.in/arizonacardinals/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/1339fb374ac6a798ba28575db688cb10-thumbnail.jpg" group-title="NFL Action",Minnesota Vikings vs. Green Bay Packers (Nov 24 @ 02:00 AM PHT) [FOX]
-https://gg.poocloud.in/greenbaypackers/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/952d6b2ee9d02fcc2a1d7ff1e388773e-thumbnail.jpg" group-title="NFL Action",New England Patriots vs. Cincinnati Bengals (Nov 24 @ 02:00 AM PHT) [CBS]
-https://gg.poocloud.in/cincinnatibengals/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/87ecd12353a6afa7a1458dbd3e685260-thumbnail.jpg" group-title="NFL Action",New York Giants vs. Detroit Lions (Nov 24 @ 02:00 AM PHT) [FOX]
-https://gg.poocloud.in/detroitlions/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/7223706a0d8c86cadbeb1548598396a0-thumbnail.jpg" group-title="NFL Action",New York Jets vs. Baltimore Ravens (Nov 24 @ 02:00 AM PHT) [CBS]
-https://gg.poocloud.in/baltimoreravens/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/b81de749344645209b90492c795620e1-thumbnail.jpg" group-title="NFL Action",NFL RedZone (Nov 24 @ 02:00 AM PHT) [NFL RedZone]
-https://gg.poocloud.in/redzone/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/9851d9b52ac076bc4b527073bcb8fc98-thumbnail.jpg" group-title="NFL Action",Philadelphia Eagles vs. Dallas Cowboys (Nov 24 @ 05:25 AM PHT) [FOX]
-https://gg.poocloud.in/dallascowboys/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/8b10e4db438460f528633d50ac0fcfce-thumbnail.jpg" group-title="NFL Action",Pittsburgh Steelers vs. Chicago Bears (Nov 24 @ 02:00 AM PHT) [CBS]
-https://gg.poocloud.in/chicagobears/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/31328dbd75331c5693966823aae636d2-thumbnail.jpg" group-title="NFL Action",Seattle Seahawks vs. Tennessee Titans (Nov 24 @ 02:00 AM PHT) [FOX]
-https://gg.poocloud.in/tennesseetitans/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/e4bf8e4d971d6e82614627621458e6e4-thumbnail.jpg" group-title="NFL Action",Tampa Bay Buccaneers vs. Los Angeles Rams (Nov 24 @ 09:20 AM PHT) [NBC]
-https://gg.poocloud.in/losangelesrams/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title=" 🤼  Wrestling Live Events(Nov 25,TUE)",@09AM WWE: Monday Night RAW[Netflix]
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/04d991639449ca643022fd3498a845f2-thumbnail.jpg" group-title="Ice Hockey (Nov 24,Monday)",@8AM Colorado Avalanche vs. Chicago Blackhawks[ALTITUDE SPORTS]
-https://gg.poocloud.in/chicagoblackhawks/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/19e5cb0e40a328202d20fb78a7dee0e2-thumbnail.jpg" group-title="Ice Hockey (Nov 24,Monday)",@9AM Boston Bruins vs. San Jose Sharks[NBC SPORTS BA]
-https://gg.poocloud.in/sanjosesharks/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d0254389167401a507840310f91f872f-thumbnail.jpg" group-title="Ice Hockey (Nov 24,Monday)",@10AM Calgary Flames vs. Vancouver Canucks[ESPN+]
-https://gg.poocloud.in/vancouvercanucks/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/45e1423f3c25d4472ca1798542e99dc7-thumbnail.jpg" group-title="🏈 American Football Live Stream(Nov 25,TUE)",@09:15AM Carolina Panthers vs. San Francisco 49ers[ESPN]
+https://gg.poocloud.in/sanfrancisco49ers/tracks-v1a1/mono.ts.m3u8
 
 
 

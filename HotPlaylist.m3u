@@ -14,6 +14,14 @@ https://gg.poocloud.in/losangeleslakers/index.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Phoenix Suns vs Oklahoma City Thunder (Dec 10 - 07:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (Devant)",@8:30am Phoenix Suns vs Oklahoma City Thunder
+https://cdn1.dtplumber.cfd/live/cdn1/playlist.m3u8?expires=1765409120&token=ae6f2ffc0be31e12ec80742e29ea9dd3853f71bc33b8b166814a592025aa7405
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Antonio Spurs vs Los Angeles Lakers (Dec 10 - 10:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (Devant)",@11am San Antonio Spurs vs Los Angeles Lakers
+https://cdn3.dtplumber.cfd/live/cdn3/playlist.m3u8?expires=1765407110&token=2d21b8076318b6b85c65e4ac2545ebdb9909c6da1947d35f8eb2284cef356603
+
+
 
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/dda813786436b86bcc5290a8be583411-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@1:45AM Villarreal vs. Copenhagen [CHAMPIONS LEAGUE]

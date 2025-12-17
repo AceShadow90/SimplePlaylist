@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/13c690ab603a7217b3e81cb4ba6ac4d9-thumbnail.jpg" group-title="🏀 NBA Live (Dec 18,Thu)",@9:00AM Cleveland Cavaliers vs. Chicago Bulls [CHSN]
 https://gg.poocloud.in/chicagobulls/index.m3u8
-https://gg.poocloud.in/newyorkknicks/index.m3u8
+
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6249196c6656611a63c539ab5ef1c976-thumbnail.jpg" group-title="🏀 NBA Live (Dec 18,Thu)",@9:00AM Memphis Grizzlies vs. Minnesota Timberwolves [NBA TV]
 https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
@@ -120,4 +120,5 @@ https://direct.poocloud.in/misfits.m3u8
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="🤼  Wrestling Live Event(Dec 18,Thu)",@9:00AM AEW: Wednesday Night Dynamite [TBS]
 https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+
 

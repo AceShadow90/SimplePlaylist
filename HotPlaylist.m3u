@@ -22,23 +22,25 @@ https://gg.poocloud.in/sacramentokings/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@4:30AM Chicago Bulls vs. Atlanta Hawks
-https://cdn14.lilicdn.cfd/live/cdn14/playlist.m3u8?expires=1766335113&token=49ca8a2bbb95540d432519fe8d0f80d8988e7da530427c360624569a29dca40d
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a4d3614fadd2ed84b7d57f2e2f1d0245-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@4:30AM Chicago Bulls vs. Atlanta Hawks [FANDUEL SN SE]
+https://gg.poocloud.in/atlantahawks/index.m3u8
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@7:00AM Toronto Raptors vs. Brooklyn Nets
-https://cdn3.lilicdn.cfd/live/cdn3/playlist.m3u8?expires=1766335257&token=b5ec587b783dbba102efa960d455f881e7c48210ed47411d75b17ed2ad7250c3
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/05a433b7161c6526ee5a75bfac49ecd2-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@7:00AM Toronto Raptors vs. Brooklyn Nets [YES]
+https://gg.poocloud.in/brooklynnets/index.m3u8
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@7:00AM Miami Heat vs. New York Knicks
-https://cdn6.lilicdn.cfd/live/cdn6/playlist.m3u8?expires=1766335325&token=633516456fde80feb6d4f20a6bc59b8b55e7fc6ae32fdae91fbbd32fedbc6dec
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/759008e3cbafe80a30982d5248061889-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@7:00AM Miami Heat vs. New York Knicks [MSG]
+https://gg.poocloud.in/newyorkknicks/index.m3u8
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM San Antonio Spurs vs. Washington Wizards
-https://cdn5.lilicdn.cfd/live/cdn5/playlist.m3u8?expires=1766335419&token=a507d547d35b9ebf01e544ddb6670d8ffc74f339ec838b84d0dc2e208acca27a
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f4303ad2833f38f1a29983da06aafcfa-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@8:00AM San Antonio Spurs vs. Washington Wizards [MNMT]
+https://gg.poocloud.in/washingtonwizards/index.m3u8
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Milwaukee Bucks vs. Minnesota Timberwolves
-https://cdn6.lilicdn.cfd/live/cdn6/playlist.m3u8?expires=1766335467&token=fe933f22f8df3d5727c3abae7f8f6ca25a0396df520e67859b1a0c86055c9a4d
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/681e94758ec17a2fae5c6c1cbf6432db-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@8:00AM Milwaukee Bucks vs. Minnesota Timberwolves [FANDUEL SN NORTH EXTRA]
+https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@11:00AM Houston Rockets vs. Sacramento Kings
-https://cdn7.lilicdn.cfd/live/cdn7/playlist.m3u8?expires=1766335536&token=8be468127ded9131c9192b0591133549d91e1b4df59aa9c1998b7ebd30ee2b80
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/27829e97a4c2e97530dee5ac18aa6e77-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@11:00AM Houston Rockets vs. Sacramento Kings [NBC SPORTS CA]
+https://gg.poocloud.in/sacramentokings/index.m3u8
+
 
 
 
@@ -175,6 +177,7 @@ https://direct.poocloud.in/misfits.m3u8
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="🤼  Wrestling Live Event(Dec 22,Mon)",@9:00AM WWE: Friday Night Smackdown [USA NETWORK]
 https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+
 
 
 
@@ -1826,4 +1829,5 @@ https://converse.nathcreqtives.com/indihome-nhk-world-japan/manifest.mpd?token=e
 
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png" group-title="INDIHOME CHANNELS",KIX
 https://converse.nathcreqtives.com/indihome-kix/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJKaXY5MCIsImV4cCI6MTc2NjY5OTQ2MX0.Eiq_LQMYhOXPRMI9TtMIBqswl93MjN1oAgqdmp96-1k
+
 

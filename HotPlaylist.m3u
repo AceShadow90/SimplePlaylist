@@ -4,6 +4,7 @@
 
 
 
+
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fa6e5f58424bf40ecf6e3a1b7fc51dc8-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",8AM New Orleans Pelicans vs. Indiana Pacers
 https://cdn1.hkfile.cfd/live/cdn1/chunks.m3u8
@@ -29,39 +30,22 @@ https://cdn6.hkfile.cfd/live/cdn6/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",8AM New Orleans Pelicans vs. Indiana Pacers
-https://strm.poocloud.in/secure/LHrXLbeUZdmXhKUVUxUcfbyyoyDvrrER/1768600800/1768625280/indianapacers.m3u8
+https://strm.poocloud.in/secure/NIJZgwVjgWfCzUruiyTSbRJrobTKjbSa/1768600800/1768625280/indianapacers.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",8AM Cleveland Cavaliers vs. Philadelphia 76ers
-https://strm.poocloud.in/secure/xdLISWiNpCJYktDsvclGBkvKDPKRBVhs/1768600800/1768625280/philadelphia76ers.m3u8
+https://strm.poocloud.in/secure/vFooDlZkUZtnfSByBYEGNskbNzHcdtWQ/1768600800/1768625280/philadelphia76ers.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",8:30AM Chicago Bulls vs. Brooklyn Nets
-https://strm.poocloud.in/secure/RYKExQchqodTzhflrokJGMviCYXpzVbF/1768602600/1768627080/brooklynnets.m3u8
+https://strm.poocloud.in/secure/gPnpUcvPhDnYedRRnTAoYhPepFXDBSSg/1768602600/1768627080/brooklynnets.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",8:30AM LA Clippers vs. Toronto Raptors
-https://strm.poocloud.in/secure/ZsINLtRfSxfYiAsnAdQSOAtCLfSUcZKE/1768602600/1768627080/torontoraptors.m3u8
+https://strm.poocloud.in/secure/mjFzcnqgCIoGofTQARmGkkkHgAbMxYxD/1768602600/1768627080/torontoraptors.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",10:30AM  Minnesota Timberwolves vs. Houston Rockets
-https://strm.poocloud.in/secure/ScmpYUxhiwezIZritwHKggAiQNulLIKx/1768609800/1768634280/houstonrockets.m3u8
+https://strm.poocloud.in/secure/LGYVdTHxVaYFWegdgQCATNFMADPdRIig/1768609800/1768634280/houstonrockets.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",11AM Washington Wizards vs. Sacramento Kings
-https://strm.poocloud.in/secure/NAMzDQPJqQnbVtmewPevRcIhfhWndeJy/1768611600/1768636080/sacramentokings.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",8AM Cleveland Cavaliers @ Philadelphia 76ers
-https://v16.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=7-H9q47xirq3uWlkkzmGhw&expires=1768603561&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",8AM New Orleans Pelicans @ Indiana Pacers
-https://e1.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=IxunaW_7Yh0EzMATyIi27A&expires=1768603571&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",8:30AM Chicago Bulls @ Brooklyn Nets
-https://v5.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=Qfmm2KeRNJ7r1fRado0IAg&expires=1768603582&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",8:30AM Los Angeles Clippers @ Toronto Raptors
-https://e4.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=2qFwQqb2VFJHmWnSxvEYfg&expires=1768603592&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",10:30AM  Minnesota Timberwolves @ Houston Rockets
-https://e3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=IcO-yB-omvWs-1i0-7UI3w&expires=1768603602&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",11AM Washington Wizards @ Sacramento Kings
-https://e1.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=IF7oGj3TAnuPpQVQDt1Kbg&expires=1768603612&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
+https://strm.poocloud.in/secure/SSxWnlKGSCPaqHkrWglaCnTiuJnAOoct/1768611600/1768636080/sacramentokings.m3u8
 
 
 
@@ -335,6 +319,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 
 

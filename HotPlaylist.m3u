@@ -3,14 +3,6 @@
 https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="AVAILABLE CHANNELS NOTICE",CHANNELS NOTICE
-https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
-
-
-
-
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b47c43cbb89fc08a9cd4c1d4d80cb784-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Phoenix Suns vs. Philadelphia 76ers
@@ -39,26 +31,25 @@ https://cdn6.hkfile.cfd/live/cdn6/playlist.m3u8?expires=1768952060&token=a46771b
 
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b47c43cbb89fc08a9cd4c1d4d80cb784-thumbnail.jpg" group-title="NBA Live (Source 2)",8AM Suns vs. 76ers
-https://strm.poocloud.in/secure/DFVBOboMiQidIZQxeYFRAIvNLpJEQdhc/1768946400/1768970880/philadelphia76ers/index.m3u8
+https://strm.poocloud.in/secure/iHzFqSfHASzWmVtSrHpqvCltoIYXRUVu/1768946400/1768970880/philadelphia76ers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c47ce708c93d53115f40632a4f74f392-thumbnail.jpg" group-title="NBA Live (Source 2)",9AM Clippers vs. Bulls
-https://strm.poocloud.in/secure/fwPSVCgCbHQCbXUIxSuWKBijykvFKUJF/1768950000/1768974480/chicagobulls/index.m3u8
+https://strm.poocloud.in/secure/ljlzfCroWITTipuwswkyeotUCAfmNyqp/1768950000/1768974480/chicagobulls/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fa156a253bd0630283e8f712e09da3d1-thumbnail.jpg" group-title="NBA Live (Source 2)",9AM Spurs vs. Rockets
-https://strm.poocloud.in/secure/aWSeeTHvVDOSaMUgxCoJSWiEwgvTIFmi/1768950000/1768974480/houstonrockets/index.m3u8
+https://strm.poocloud.in/secure/qmDDBxIgXRAdXJYrCeujJLFMEXKdRnwE/1768950000/1768974480/houstonrockets/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5c17b9c6838b8897772db5910fadd8db-thumbnail.jpg" group-title="NBA Live (Source 2)",10AM Timberwolves vs. Jazz
-https://strm.poocloud.in/secure/aOYUSajouBCKuYMtYTJAZnXRmbHigkVY/1768953600/1768978080/utahjazz/index.m3u8
+https://strm.poocloud.in/secure/cmDvUrOooltIMzHERcbYUzcYhSkyBwOa/1768953600/1768978080/utahjazz/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6ec607e640eeed80d7e0174df5ac1949-thumbnail.jpg" group-title="NBA Live (Source 2)",11AM Lakers vs. Nuggets
-https://strm.poocloud.in/secure/uuMBvytaforFkmNIFsbxbxxfsFbgcaZo/1768957200/1768981680/denvernuggets/index.m3u8
+https://strm.poocloud.in/secure/VVSzTxWNdXkczTnnDbmoxKFuXjlXXztG/1768957200/1768981680/denvernuggets/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8a7da7a5f21535b519f3af36820389c0-thumbnail.jpg" group-title="NBA Live (Source 2)",11AM Raptors vs. Warriors
-https://strm.poocloud.in/secure/wLgnZhiptQVBWIlTriZnsAcdmCehAPzG/1768957200/1768981680/goldenstatewarriors/index.m3u8
+https://strm.poocloud.in/secure/yALHXpKFWMJHoEipOuWBOgLiTJYsohNF/1768957200/1768981680/goldenstatewarriors/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5c431c67e083fbaad9ad27737bb8dfbc-thumbnail.jpg" group-title="NBA Live (Source 2)",11AM Heat vs. Kings
-https://strm.poocloud.in/secure/ngDrSngWdxLKnbVlrxqafcYcIUHquhKT/1768957200/1768981680/sacramentokings/index.m3u8
-
+https://strm.poocloud.in/secure/qqfHZqyOpSpuTQIvJXsfWxnpALrhoyiI/1768957200/1768981680/sacramentokings/index.m3u8
 
 
 
@@ -330,5 +321,6 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 

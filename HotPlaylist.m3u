@@ -15,19 +15,20 @@ https://strm.poocloud.in/secure/tIlJrxpkhmrFHdzxTRXtCGtHDwYVASdw/1769119200/1769
 https://strm.poocloud.in/secure/QymSFUTjQlgqSvsrdpJfsXiMTeRNrOzd/1769119200/1769143680/washingtonwizards/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/abbaf06d257ef27ee0641c87f2f404f6-thumbnail.jpg" group-title="NBA Live (Source 1)",8:30AM Warriors vs. Mavericks
-https://strm.poocloud.in/secure/yubsbfGCbmBFWFgXKGdsmJnYVzHcNKNo/1769121000/1769145480/dallasmavericks/index.m3u8
+https://strm.poocloud.in/secure/mNhfodmYHQDBlwPVqRjJaSmsDFAOvcTm/1769121000/1769145480/dallasmavericks/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/918d6c660678f545827cc37aeea6e15b-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Bulls vs. Timberwolves
-https://strm.poocloud.in/secure/xAulFsAEmQIrxnatdjoCNPRdrudeFufq/1769122800/1769147280/minnesotatimberwolves/index.m3u8
+https://strm.poocloud.in/secure/YOfGUhzGlilcbiBruXGjOrBhDZZdVFMj/1769122800/1769147280/minnesotatimberwolves/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3ede21a0f8c3339975395d5651fe0445-thumbnail.jpg" group-title="NBA Live (Source 1)",10AM Spurs vs. Jazz
-https://strm.poocloud.in/secure/PSrdyNARBVeuWkgXlOVlBXwxhpBmHMGc/1769126400/1769150880/utahjazz/index.m3u8
+https://strm.poocloud.in/secure/gwDkStgUXjNHmMLMkmPghxIIQRXeClID/1769126400/1769150880/utahjazz/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f6cd5a81a9ebb0ad9b4e980d84f1326a-thumbnail.jpg" group-title="NBA Live (Source 1)",11AM Lakers vs. Clippers
-https://strm.poocloud.in/secure/jiTiTUfnyJEsZFmOgSBgiPQiEpBlvHHL/1769130000/1769154480/laclippers/index.m3u8
+https://strm.poocloud.in/secure/spBByiifhOByUsXOvgSeMZimLSKbkkkW/1769130000/1769154480/laclippers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/53b0d804d85cbf6778943e9de764c7e4-thumbnail.jpg" group-title="NBA Live (Source 1)",11AM Heat vs. Blazers
-https://strm.poocloud.in/secure/NaHQKcJeHFDnagonsUDOhubDEspoBXkK/1769130000/1769154480/portlandtrailblazers/index.m3u8
+https://strm.poocloud.in/secure/ajYGlVVOapfbfUfEjJdUBjbjxEvyRnej/1769130000/1769154480/portlandtrailblazers/index.m3u8
+
 
 
 
@@ -330,6 +331,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 
 

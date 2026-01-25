@@ -8,35 +8,31 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aeda97e42ed90a312b463e8c42a57080-thumbnail.jpg" group-title="COMBATSPORTS Live(Source 1)",6AM UFC 324: Gaethje vs. Pimblett
 https://cdn1.fkfiles.cfd/live/cdn1/playlist.m3u8?expires=1769283366&token=8da326e1075262d1b3cada344ed4ecaeff1102b8ddfbde34606066d3e261b6fe
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f3982ca1ee4c7ccaf1933d261ac4bc62-thumbnail.jpg" group-title="COMBATSPORTS Live(Source 2)",9AM Raymond Muratalla vs. Andy Cruz
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f3982ca1ee4c7ccaf1933d261ac4bc62-thumbnail.jpg" group-title="COMBATSPORTS Live(Source 1)",9AM Raymond Muratalla vs. Andy Cruz
 https://cdn12.fkfiles.cfd/live/cdn12/playlist.m3u8?expires=1769284820&token=87e642f24e1fe5005822dc7366707df0f4fa2abb79b702870789beecc2c62e50
 
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aeda97e42ed90a312b463e8c42a57080-thumbnail.jpg" group-title="COMBATSPORTS Live(Source 2)",6AM UFC 324: Gaethje vs. Pimblett
-https://strm.poocloud.in/secure/qAMHZaFobKJGRQxJHpxxLBjugWTwmZNa/1769284800/1769328000/ufc/index.m3u8
+https://strm.poocloud.in/secure/gggYSVllDuqMeMBHtMUOjGpyFcHJMCgM/1769284800/1769328000/ufc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f3982ca1ee4c7ccaf1933d261ac4bc62-thumbnail.jpg" group-title="COMBATSPORTS Live(Source 2)",9AM Raymond Muratalla vs. Andy Cruz
-https://strm.poocloud.in/secure/hrBnqNUOLOaKkCYanQEmlbhbVRbnnMpX/1769295600/1769331600/daznboxing/index.m3u8
- 
+https://strm.poocloud.in/secure/pmwQyICRzTIpNuKoXJjoLwVthKajKmjp/1769295600/1769331600/daznboxing/index.m3u8 
 
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="NBA Live (Source 1)",(POSTPONED) Warriors vs. Timberwolves
-https://strm.poocloud.in/secure/BVxTsaqZKMdZbCrcbwaODoecDlZbonjl/1769286600/1769311080/minnesotatimberwolves/index.m3u8
-
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/edac5d6064e02973e968c3e224ce1810-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Cavaliers vs. Magic
-https://strm.poocloud.in/secure/kMqxWUfUXENvklXFlXrxGYVjfdlumhsk/1769292000/1769316480/orlandomagic/index.m3u8
+https://strm.poocloud.in/secure/NPaecxRxuPrPBWyeVXkeAzjyICCJSMTt/1769292000/1769316480/orlandomagic/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3a8d4942a4ec828290c7d7d93759ff09-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Celtics vs. Bulls
-https://strm.poocloud.in/secure/bcYAABVxfXlaKgioxVfWlwknLcIToUia/1769295600/1769320080/chicagobulls/index.m3u8
+https://strm.poocloud.in/secure/VcqeJqsZWjiGPthaCKDoZGicpzJVlBtr/1769295600/1769320080/chicagobulls/alpha/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/dc87eb7e50d6e1940f97fc96978e1daa-thumbnail.jpg" group-title="NBA Live (Source 1)",9:30AM Lakers vs. Mavericks
-https://strm.poocloud.in/secure/MxODlqGFeCeqSdKYrpXOJCXYxGaTTkDv/1769297400/1769321880/dallasmavericks/index.m3u8
+https://strm.poocloud.in/secure/beHcystYGkuLpcgUkUBKtplsmWSUMYKM/1769297400/1769321880/dallasmavericks/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d3f95755d14cf2df8cdb47a4dc712f4c-thumbnail.jpg" group-title="NBA Live (Source 1)",10:30AM Heat vs. Jazz
-https://strm.poocloud.in/secure/YsodwXOoxAqOnkuHGsEdAfnupNCFTLkk/1769301000/1769325480/utahjazz/index.m3u8
+https://strm.poocloud.in/secure/TaxsLHNKyxOMWHzSNLfZQZASpEOXabwZ/1769301000/1769325480/utahjazz/bravo/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -329,6 +325,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 
 

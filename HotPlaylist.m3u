@@ -35,26 +35,20 @@ https://cdn7.ckfiles.cfd/live/cdn7/playlist.m3u8?expires=1769555481&token=f1460d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NBA Live Jan28(S2)",UPDATE NOTICE IF IT STOPS PLAYING
 https://drive.usercontent.google.com/download?id=1JcMqZxZLoKWyqvUo4J8tcV4nE3CNkcKH&export=download&authuser=N
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2a3d5b47344fbd91bc1dce0aee1e87e3-thumbnail.jpg" group-title="NBA Live Jan28(S2)",8AM Trail Blazers vs. Wizards
-https://strm.poocloud.in/secure/IeVQgFJjkpkdiaFazJjIoQYWyBatwwOY/1769551200/1769575680/washingtonwizards/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2deac4851c3f7ad78926f6465cd5e826-thumbnail.jpg" group-title="NBA Live Jan28(S2)",8:30AM Kings vs. Knicks
-https://strm.poocloud.in/secure/looSduauGPpNYOjXVvXYYkRgQhoDzgyx/1769553000/1769577480/newyorkknicks/index.m3u8
-
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1381932c9b2b34887e271db8042774b0-thumbnail.jpg" group-title="NBA Live Jan28(S2)",9AM Bucks vs. 76ers
-https://strm.poocloud.in/secure/rhhChUWsVkVAPmopmgscCTwuwrPYBcqf/1769554800/1769579280/philadelphia76ers/index.m3u8
+https://strm.poocloud.in/secure/vrJMomkdfIJvmcVGCBlPEdHopifbyxIi/1769554800/1769579280/philadelphia76ers/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c72bc117b9e3aec2330a3534280082b5-thumbnail.jpg" group-title="NBA Live Jan28(S2)",9AM Pelicans vs. Thunder
-https://strm.poocloud.in/secure/YrRdjFTqGLdyTMcfbLAUFcTnyOXwYuIi/1769554800/1769579280/oklahomacitythunder/index.m3u8
+https://strm.poocloud.in/secure/VZbbTVAYkmYyeQFUPxTFwKlIZwSYQeQM/1769554800/1769579280/oklahomacitythunder/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5e4e872a5d506ff44f8174da0f2df12a-thumbnail.jpg" group-title="NBA Live Jan28(S2)",10AM Pistons vs. Nuggets
-https://strm.poocloud.in/secure/UnclKOyUnyqQgmHUVPPpisCchEsHRrzG/1769558400/1769582880/denvernuggets/index.m3u8
+https://strm.poocloud.in/secure/UKIvBsdmicYGIZkDCTKgOTFxzyNkkUPl/1769558400/1769582880/denvernuggets/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/77e0e667b44689b331ccefeab9d10f59-thumbnail.jpg" group-title="NBA Live Jan28(S2)",10AM Nets vs. Phoenix Suns
-https://strm.poocloud.in/secure/BARtKCUdfLVwoUPShdgVNLMSyBhxufOy/1769558400/1769582880/phoenixsuns/index.m3u8
+https://strm.poocloud.in/secure/AaeDFSilYYPHpYohFXcgAUsZaqeUnGsv/1769558400/1769582880/phoenixsuns/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ed732a3ce242eb7c6abb8bdac34f84f1-thumbnail.jpg" group-title="NBA Live Jan28(S2)",11AM Clippers vs. Jazz
-https://strm.poocloud.in/secure/tKbkQhmmOLoRAUiskvBPljeWiOJUelFy/1769562000/1769586480/utahjazz/index.m3u8
+https://strm.poocloud.in/secure/luFzKwqTzNlvbSoSuRyooMtuLzvPRzov/1769562000/1769586480/utahjazz/index.m3u8
 
 
 
@@ -327,6 +321,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 
 

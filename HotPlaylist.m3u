@@ -6,14 +6,13 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/guid/335fd2d2-97b9-336b-81ee-573eb6bdcffc/logos/default.png" group-title="NBA Live Feb14(S1)",NBA GAMES RESUMES ON FEB 20
-https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1770942387&token=ce17255a2ab8a412f5d8841e0540adcc7f9a2165fcdc2eeec2b1b0e4c395ed45
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/525b9d573222c6876d78051c047a9dba-thumbnail.jpg" group-title="NBA Live Feb14(S1)",8AM 2026 NBA All-Star Celebrity Game
+https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1771026483&token=bdaede431aaefe1a9e1a0245951fc18f2eda4498c2d2452339ecfca8bf3a8a3b
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/guid/335fd2d2-97b9-336b-81ee-573eb6bdcffc/logos/default.png" group-title="NBA Live Feb14(S1)",NBA GAMES RESUMES ON FEB 20
-https://cdn2.ncfiles.cfd/live/cdn2/playlist.m3u8?expires=1770942059&token=560bfa72ee397e24835064b23e56397bff49ccf50a8eb81f9b97021d3a19e118
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4fafe3e90e2ee4108dafb05712edcc22-thumbnail.jpg" group-title="NBA Live Feb14(S1)",10AM 2026 NBA Rising Stars Challenge
+https://cdn2.ncfiles.cfd/live/cdn2/playlist.m3u8?expires=1771026499&token=960e134d84579e28a2e6c4174f23367e2a650c0d4f1b0d390a4466370e47ca9b
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/guid/335fd2d2-97b9-336b-81ee-573eb6bdcffc/logos/default.png" group-title="NBA Live Feb14(S1)",NBA GAMES RESUMES ON FEB 20
-https://cdn3.ncfiles.cfd/live/cdn3/playlist.m3u8?expires=1770944449&token=5e723ce19ea037dd8769beb0bc673a6f1eed83a31466b51a8410d30a8cc1f5ff
+
 
 
 
@@ -310,6 +309,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 
 

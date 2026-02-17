@@ -13,17 +13,29 @@ https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1771192408&token=7731b2
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="BASKETBALL  Live Feb17(S2)",(REUPDATE at 9:45AM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="BASKETBALL  Live Feb17(S2)",(REUPDATE at 12PM)
 https://drive.usercontent.google.com/download?id=1JcMqZxZLoKWyqvUo4J8tcV4nE3CNkcKH&export=download&authuser=N
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e40fb15f4976bbc07f57ccae3a0ba4b7-thumbnail.jpg" group-title="BASKETBALL  Live Feb17(S2)",8AM Syracuse Orange vs. Duke Blue Devils (Basketball)
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/DKBsHPpXXcCfUKNCSQOellzNyfyHXfXz/1771275600/1771306200/ESPN/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/sCdJBSbftbrFqjjoiKddlJMmqboaZGOq/1771275600/1771306200/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/beb253028260758c6f2d2c86f42d4790-thumbnail.jpg" group-title="BASKETBALL  Live Feb17(S2)",10AM 75th NBA All-Star Game
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/kaqisQmrgOoPOazkIvMBAUCHnsXQkYIC/1771282800/1771313400/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/beb253028260758c6f2d2c86f42d4790-thumbnail.jpg" group-title="BASKETBALL  Live Feb17(S2)",10AM Houston Cougars vs. Iowa State Cyclones (Basketball)
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/uIKXLxOwQwnRZwfRgfUsTMaBrlTIrrbg/1771282800/1771313400/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="COMBAT SPORTS Live Feb17(S2)",9AM WWE: Monday Night RAW
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/RfQcydtrwAsAKhvZriKtjpwTkzJRcXYJ/1771279200/1771308000/wrestling/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/pwehOIhhOhZDETvXcoEvjhnAoIGwidmQ/1771279200/1771308000/wrestling/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5492ecfb31f85810c3ea70478413ef69-thumbnail.jpg" group-title="BASEBALL Live Feb17(S2)",Kent State Golden Flashes vs. LSU Tigers (Baseball)
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/DDZPQyvUmmROjEtgLcoOLMiSeZKQEzqp/1771275600/1771306200/collegebaseball-3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08f6b472be73d70e7913d467709b99bf-thumbnail.jpg" group-title="BASEBALL Live Feb17(S2)",New Mexico State Aggies vs. Oklahoma Sooners (Baseball)
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/okjsngybGBXrfLbItARWPCjmMZvsttFm/1771277400/1771308000/collegebaseball-4/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -295,6 +307,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 
 

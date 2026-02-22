@@ -26,16 +26,21 @@ https://cdn10.zafiles.cfd/live/cdn10/playlist.m3u8?expires=1771709741&token=20fb
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8eJZYwHpNP7ePpZN8Y0EXtAC31Q.jpg" group-title="BOXING Live Feb22(S1)",3AM Leigh Wood vs Josh Warrington 2
-https://cdn11.zafiles.cfd/live/cdn11/playlist.m3u8?expires=1771706656&token=86a43c1f1b99dd544f6e2c623c4f20ecf6f0ad10aa189b1b95c589aff6c06f41
-
 #EXTINF:-1 tvg-logo="https://www.boxing247.com/wp-content/uploads/2026/02/garcia-barrios.jpg" group-title="BOXING Live Feb22(S1)",9AM Mario Barrios vs Ryan Garcia
 https://cdn11.zafiles.cfd/live/cdn11/playlist.m3u8?expires=1771708125&token=bb8a5ab92702fb81e3adf44769ebf10be7d07d6313b4bb817bbd183c94623abd
+
+#EXTINF:-1 tvg-logo="https://www.boxing247.com/wp-content/uploads/2026/02/garcia-barrios.jpg" group-title="BOXING Live Feb22(S2)",9AM Mario Barrios vs Ryan Garcia
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/onraCvxJoTslOkZoMtwwWBSwoPcffAyq/1771711200/1771750800/garcia/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://www.actumma.com/wp-content/uploads/2026/02/UFC-Fight-Night-267-Comment-Regarder.jpg" group-title="UFC Live Feb22(S1)",6AM UFC Fight Night: Strickland vs. Hernandez
 https://cdn1.zafiles.cfd/live/cdn1/playlist.m3u8?expires=1771707003&token=84dd528af34ffc8c625dd88894761d55dd0088df3d4663ada4a513d03b6704ad
+
+
+#EXTINF:-1 tvg-logo="https://www.actumma.com/wp-content/uploads/2026/02/UFC-Fight-Night-267-Comment-Regarder.jpg" group-title="UFC Live Feb22(S2)",6AM UFC Fight Night: Strickland vs. Hernandez
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/sWfuMnrsmeFOkzPjFdFNCFKwISaAivLH/1771700400/1771747200/ufc/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -311,6 +316,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 
 
 

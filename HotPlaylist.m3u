@@ -43,12 +43,16 @@ https://v5.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=D8Fv8oK6MXc22Z2ue4G
 
 
 
-#EXTINF:-1 gr#EXTINF:-1 group-logo="https://i.imgur.com/odYhtOW.png"
+#EXTINF:-1 group-logo="https://i.imgur.com/odYhtOW.png"
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.st/assets/thumb/56fac5135cfca9e8564ac368c317764b-thumbnail.jpg" group-title="WNBA Event June 4",8AM Toronto Tempo vs New York Liberty
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
 https://lba4.lefiles.cfd/live/tempo/stream.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.st/assets/thumb/1b6f52f62c60a850712f6b9bdbea3601-thumbnail.jpg" group-title="WNBA Event June 4",10AM Phoenix Mercury vs Seattle Storm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
 https://lba4.lefiles.cfd/live/storm/stream.m3u8
 
 
